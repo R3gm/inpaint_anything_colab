@@ -1,5 +1,12 @@
 # Inpaint Anything (Inpainting with Segment Anything)
 
+| Description | Link |
+| ----------- | ---- |
+| 📙 Colab | [![M](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/R3gm/inpaint_anything_colab/blob/main/inpaint_anything_colab.ipynb) |
+| 🔥 Discover More Colab Notebooks | [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-black?style=flat-square&logo=github)](https://github.com/R3gm/Colab-resources/) |
+
+
+
 Inpaint Anything performs stable diffusion inpainting on a browser UI using any mask selected from the output of [Segment Anything](https://github.com/facebookresearch/segment-anything).
 
 
